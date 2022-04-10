@@ -158,10 +158,9 @@ ul {
   color: var(--title-text-color);
 }
 
-.work-title p {
+.work-title-profession {
   font-size: 16px;
   line-height: 1.2;
-  text-align: center;
 }
 
 /*  adress  */
