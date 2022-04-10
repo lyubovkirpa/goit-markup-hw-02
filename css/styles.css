@@ -107,10 +107,10 @@ ul {
   color: var(--title-text-color);
   background-color: var(--secondary-color);
   border: transparent;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 16px;
-  line-height: 1.9;
-  letter-spacing: 0.06em;
+  line-height: 1.6;
+  letter-spacing: 0.03em;
 }
 
 .button-primary:hover,
@@ -130,6 +130,7 @@ ul {
   line-height: 1.2;
   font-size: 14px;
   letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .features-title p {
@@ -197,7 +198,6 @@ ul {
 .contact .link-footer {
   font-family: "Roboto";
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
